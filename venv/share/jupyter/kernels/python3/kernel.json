@@ -1,6 +1,6 @@
 {
  "argv": [
-  "c:/dev/Python/venv\\python.exe",
+  "python",
   "-m",
   "ipykernel_launcher",
   "-f",
