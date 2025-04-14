@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+
+# Python dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sistem dosyaları
+.DS_Store
+*.log
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Büyük dosyalar veya derlenmiş dosyalar
+*.lib
+*.so
+*.dylib
+
+# requirements dosyası (bu izlenmeli)
+!requirements.txt
