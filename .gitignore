@@ -4,6 +4,7 @@ venv/
 env/
 myenv/
 ENV/
+.env/
 
 # Python dosyaları
 __pycache__/
