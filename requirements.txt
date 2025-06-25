@@ -28,3 +28,9 @@ langchain-huggingface
 hf_xet
 tf-keras
 faiss-cpu
+langchain_groq
+langchain-core
+langserve
+fastapi
+uvicorn
+sse_starlette
