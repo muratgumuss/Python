@@ -5,6 +5,7 @@ env/
 myenv/
 ENV/
 .env/
+.env
 
 # Python dosyaları
 __pycache__/
