@@ -28,7 +28,7 @@ langchain-huggingface
 hf_xet
 tf-keras
 faiss-cpu
-langchain_groq
+langchain-groq
 langchain-core
 langserve
 fastapi
