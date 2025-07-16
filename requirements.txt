@@ -36,3 +36,5 @@ uvicorn
 sse_starlette
 langchain-chroma
 duckduckgo-search
+mysql-connector-python
+SQLAlchemy
