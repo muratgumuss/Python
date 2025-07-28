@@ -45,4 +45,4 @@ pytube
 selenium
 trafilatura
 readability-lxml  
-
+numexpr
