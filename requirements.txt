@@ -46,3 +46,4 @@ selenium
 trafilatura
 readability-lxml  
 numexpr
+huggingface-hub
