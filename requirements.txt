@@ -48,4 +48,8 @@ readability-lxml
 numexpr
 huggingface-hub
 gradio
-
+boto3
+awscli
+aiobotocore
+botocore
+s3transfer
